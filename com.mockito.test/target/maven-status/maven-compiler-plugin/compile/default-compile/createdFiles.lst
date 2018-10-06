@@ -1,0 +1,4 @@
+com\mockito\service\WelcomePageDataProviderService.class
+com\mockito\service\WelcomePageDataProviderServiceImpl.class
+com\mockito\config\WebConfigurer.class
+com\mockito\controller\ViewReturnController.class
