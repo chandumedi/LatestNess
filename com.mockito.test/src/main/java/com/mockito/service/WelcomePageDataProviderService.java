@@ -1,5 +1,11 @@
 package com.mockito.service;
 
- public interface WelcomePageDataProviderService {
+import java.util.ArrayList;
+
+import com.mockito.db.PageTabs;
+
+public interface WelcomePageDataProviderService {
 	public String welcomeDataProvider();
+
+	public ArrayList<PageTabs> getTabNames();
 }
