@@ -6,7 +6,7 @@ import org.springframework.stereotype.Service;
 public class WelcomePageDataProviderServiceImpl implements WelcomePageDataProviderService{
 
 	public String welcomeDataProvider() {
-		String displayData="Welcome to Mackito Testing!";
+		String displayData="Welcome to Mackito Testing testing with GIT!";
 		return displayData;
 	}
 
